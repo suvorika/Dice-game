@@ -7,7 +7,7 @@
 1. Клонировать репозиторий:
 
 ```
-git clone git@github.com:suvorika/Dice_game.git
+git clone git@github.com:suvorika/Dice-game.git
 ```
 
 2. Активировать виртуальное окружение:
